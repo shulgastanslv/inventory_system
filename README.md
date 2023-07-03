@@ -1,6 +1,5 @@
 ## Introduction
 Inventory system from S.T.A.L.K.E.R.: Call of Pripyat with all the basic mechanics on UE4. In addition to the basic features, a system for developing weapon mechanics has been prepared. 
-This project is also minimally optimized.
 
 
 ## Overview
