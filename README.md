@@ -1,5 +1,5 @@
 ## Introduction
-Inventory system from stalker zov pripyati with all the basic mechanics on Unreal Engine 4. In addition to the basic mechans, a system for developing weapon mechans is prepared. 
+Inventory system from S.T.A.L.K.E.R.: Call of Pripyat with all the basic mechanics on UE4. In addition to the basic features, a system for developing weapon mechanics has been prepared. 
 This project is also minimally optimized.
 
 
