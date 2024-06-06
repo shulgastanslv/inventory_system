@@ -1,15 +1,9 @@
 ## Introduction
 Inventory system from S.T.A.L.K.E.R.: Call of Pripyat with all the basic mechanics on UE4. In addition to the basic features, a system for developing weapon mechanics has been prepared. 
 
-
-## Overview
-<img src=".template.config/image_2023-07-03_01-21-26.png">
-
-
 ## Requirement
 These requirements must be met before you start: <br>
 Before you start, if your version of Unreal Engine is less than 4.27, install it at this link [Unreal Engine 4.27](https://www.epicgames.com/site/en-US/news/unreal-engine-4-27-is-now-available)
-
 
 ## Getting Started
 1. Install the required version of the engine (if required)
@@ -19,26 +13,6 @@ Before you start, if your version of Unreal Engine is less than 4.27, install it
 git clone https://github.com/akiroqw/inventory_system.git
 ```
 or you can do it with the IDE you are working in.
-
-
-## The main functions that have been implemented:
-
-* Armor Characteristics System when equipped. There is also a system that shows the performance of these characteristics. In this project you can find an area with radiation to check the characteristic of resistance to radiation.
-The system of adding new characteristics to the surrounding factors has also been added.
-<img src=".template.config/image_2023-07-03_01-22-23.png">
-
-* A system of item states has been implemented. In the project there is a special list that can have a state.
-<img src=".template.config/image_2023-07-03_01-22-20.png">
-
-* The logic of moving items in the inventory. And blocking when moving an item to an item. The item will be moved to the closest inventory cell.
-<img src=".template.config/image_2023-07-03_01-22-39.png">
-
-* Characteristics system and armor combination. We have several slots present. And we can equip two weapons. Helmet, Outfit.
-<img src=".template.config/image_2023-07-03_01-21-08.png">
-
-* Also fast slots have been implemented. And developed a system of using items by pressing certain keys.
-<img src=".template.config/image_2023-07-03_01-22-14.png">
-
 
 ## Restrictions
 Inventory can be extended with new functions, logic, etc. But you should expect that when adding new items, you need to remember to have a list of items for this.
