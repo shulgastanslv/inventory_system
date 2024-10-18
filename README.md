@@ -32,9 +32,6 @@ The system of adding new characteristics to the surrounding factors has also bee
 * The logic of moving items in the inventory. And blocking when moving an item to an item. The item will be moved to the closest inventory cell.
 <img src="Common/img/image_2023-07-03_01-22-39.png">
 
-* Characteristics system and armor combination. We have several slots present. And we can equip two weapons. Helmet, Outfit.
-<img src="Images/image_2023-07-03_01-21-08.png">
-
 * Also fast slots have been implemented. And developed a system of using items by pressing certain keys.
 <img src="Common/img/image_2023-07-03_01-22-14.png">
 
