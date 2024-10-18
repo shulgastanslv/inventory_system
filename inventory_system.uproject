@@ -3,6 +3,18 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "FlatNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
+		},
+		{
+			"Name": "LiveBlueprintDebugger",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6019cfbf80bb4942add3b61d9180380a"
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
